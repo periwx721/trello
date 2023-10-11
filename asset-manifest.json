@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/trello/static/css/main.44d7b746.css",
+    "main.js": "/trello/static/js/main.0358dc21.js",
+    "static/media/1669985011_1-kartinkin-net-p-lampovii-fon-instagram-1.jpg": "/trello/static/media/1669985011_1-kartinkin-net-p-lampovii-fon-instagram-1.0196e737e658f9971754.jpg",
+    "static/media/GoogleIcon.jpg": "/trello/static/media/GoogleIcon.5994b6a3a3b746862fee.jpg",
+    "static/media/Trello_logo.svg.png": "/trello/static/media/Trello_logo.svg.820d202696a7d10b73c4.png",
+    "static/media/DownArrowIcon.webp": "/trello/static/media/DownArrowIcon.a79fb201e8ba443d43b3.webp",
+    "index.html": "/trello/index.html",
+    "main.44d7b746.css.map": "/trello/static/css/main.44d7b746.css.map",
+    "main.0358dc21.js.map": "/trello/static/js/main.0358dc21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d7b746.css",
+    "static/js/main.0358dc21.js"
+  ]
+}
